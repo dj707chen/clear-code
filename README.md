@@ -4,6 +4,8 @@
 
 Check out branches `addMyInfo` or `beforeTakingDownDMCA` to see the code.
 
+Oh, actually there is a `claude-code` branch.
+
 # Clear-Code
 
 ### The Ultimate Guide to Open-Source AI Coding Assistants
