@@ -1,8 +1,10 @@
 <div align="center">
 
-Check out branches `addMyInfo` or `beforeTakingDownDMCA` to see the code.
-
 # Clear-Code
+
+### My Notes
+
+Check out branches `addMyInfo` or `beforeTakingDownDMCA` to see the code.
 
 ### The Ultimate Guide to Open-Source AI Coding Assistants
 
